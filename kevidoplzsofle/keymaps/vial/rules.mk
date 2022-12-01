@@ -1,0 +1,4 @@
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+SPLIT_KEYBOARD = yes
+LTO_ENABLE = yes
